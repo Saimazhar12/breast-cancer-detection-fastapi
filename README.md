@@ -75,7 +75,7 @@ The trained XGBoost model was deployed as a full-stack web application using Fas
 
 1. Clone the repository  
 2. Install dependencies: pip install -r requirements.txt
-3. Run the FastAPI app: uvicorn app:app --reload
+3. Run the FastAPI app: uvicorn app: app --reload
 4. Open browser and go to: http://127.0.0.1:8000
 
 
