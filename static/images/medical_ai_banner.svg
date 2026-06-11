@@ -1,0 +1,97 @@
+<svg width="100%" viewBox="0 0 1410 290" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Medical AI Banner – Breast Cancer Detection Application Using Machine Learning Classifier</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A redesigned banner with a deep navy and violet color scheme, featuring a heartbeat line, caduceus icon, and the subtitle text about the breast cancer detection application.</desc>
+
+  <!-- Background: deep navy -->
+  <rect width="1400" height="280" fill="#0A0F2E" style="fill:rgb(10, 15, 46);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Grid lines overlay -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1C2A6B" stroke-width="0.8"/>
+    </pattern>
+    <linearGradient id="leftFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0F2E" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#0A0F2E" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#0A0F2E" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0A0F2E" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#A855F7" stop-opacity="0.3"/>
+      <stop offset="70%" stop-color="#7C3AED" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0A0F2E" stop-opacity="0"/>
+    </linearGradient>
+  <mask id="imagine-text-gaps-3ydvqb" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="1410" height="290" fill="white"/><rect x="532.866455078125" y="51.59614562988281" width="602.3213500976562" height="74.50481414794922" fill="black" rx="2"/><rect x="536" y="143.23129272460938" width="623.7420654296875" height="40.03579330444336" fill="black" rx="2"/><rect x="536" y="186.23130798339844" width="591.8098754882812" height="40.03579330444336" fill="black" rx="2"/></mask></defs>
+
+  <rect width="1400" height="280" fill="url(#grid)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Glow strip in center-right -->
+  <rect x="0" y="60" width="1400" height="160" fill="url(#glowGrad)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Heartbeat / ECG line -->
+  <polyline points="340,140 390,140 410,80 430,200 450,120 470,160 490,140 600,140 625,140 640,60 660,220 680,100 700,170 720,140 900,140" fill="none" stroke="#A855F7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#imagine-text-gaps-3ydvqb)" style="fill:none;stroke:rgb(168, 85, 247);color:rgb(0, 0, 0);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Glow duplicate, thicker + lighter -->
+  <polyline points="340,140 390,140 410,80 430,200 450,120 470,160 490,140 600,140 625,140 640,60 660,220 680,100 700,170 720,140 900,140" fill="none" stroke="#D8B4FE" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.5" mask="url(#imagine-text-gaps-3ydvqb)" style="fill:none;stroke:rgb(216, 180, 254);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:round;stroke-linejoin:round;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Right glow dot -->
+  <circle cx="1340" cy="140" r="8" fill="#7C3AED" opacity="0.9" style="fill:rgb(124, 58, 237);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="1340" cy="140" r="20" fill="#7C3AED" opacity="0.2" style="fill:rgb(124, 58, 237);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.2;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Left panel: dark overlay for image placeholder area -->
+  <rect x="0" y="0" width="340" height="280" fill="#060B22" opacity="0.7" style="fill:rgb(6, 11, 34);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Silhouette of a doctor (simple SVG figure) -->
+  <!-- Head -->
+  <circle cx="155" cy="52" r="32" fill="#1E3A5F" style="fill:rgb(30, 58, 95);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Cap -->
+  <ellipse cx="155" cy="30" rx="36" ry="10" fill="#2563EB" style="fill:rgb(37, 99, 235);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="119" y="26" width="72" height="8" rx="2" fill="#1D4ED8" style="fill:rgb(29, 78, 216);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Body / scrubs -->
+  <path d="M100 120 Q130 90 155 88 Q180 90 210 120 L215 240 L95 240 Z" fill="#1E40AF" style="fill:rgb(30, 64, 175);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Collar -->
+  <path d="M137 88 L155 110 L173 88" fill="none" stroke="#3B82F6" stroke-width="2" style="fill:none;stroke:rgb(59, 130, 246);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Stethoscope outline -->
+  <path d="M135 130 Q115 160 118 190 Q120 215 138 218 Q158 220 162 200 L162 175 Q165 165 175 165 Q185 165 185 155 Q185 147 176 147" fill="none" stroke="#7C3AED" stroke-width="3.5" stroke-linecap="round" style="fill:none;stroke:rgb(124, 58, 237);color:rgb(0, 0, 0);stroke-width:3.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="176" cy="144" r="7" fill="#A855F7" style="fill:rgb(168, 85, 247);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Arm holding stethoscope -->
+  <path d="M210 140 Q220 155 215 175 Q210 190 200 185" fill="none" stroke="#1E3A5F" stroke-width="14" stroke-linecap="round" style="fill:none;stroke:rgb(30, 58, 95);color:rgb(0, 0, 0);stroke-width:14px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Fade doctor into bg on right -->
+  <rect x="250" y="0" width="90" height="280" fill="url(#leftFade)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Logo / Icon area -->
+  <!-- Brain + lightbulb icon (simplified) -->
+  <g transform="translate(480, 58)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- outer circle -->
+    <circle cx="0" cy="0" r="34" fill="#1E1B4B" stroke="#7C3AED" stroke-width="1.5" style="fill:rgb(30, 27, 75);stroke:rgb(124, 58, 237);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- brain left half -->
+    <path d="M-5,-18 Q-28,-18 -28,0 Q-28,18 -5,22 L-5,-18Z" fill="none" stroke="#A855F7" stroke-width="2" stroke-linecap="round" style="fill:none;stroke:rgb(168, 85, 247);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- brain right half / bulb -->
+    <path d="M0,-20 Q22,-20 22,-4 Q22,10 10,18 Q4,22 0,22" fill="none" stroke="#C084FC" stroke-width="2" stroke-linecap="round" style="fill:none;stroke:rgb(192, 132, 252);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- neural dots -->
+    <circle cx="-16" cy="-5" r="2.5" fill="#A855F7" style="fill:rgb(168, 85, 247);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="-16" cy="8" r="2.5" fill="#A855F7" style="fill:rgb(168, 85, 247);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="-8" cy="2" r="2.5" fill="#C084FC" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- bulb filament -->
+    <path d="M6,8 Q10,14 8,20" fill="none" stroke="#DDD6FE" stroke-width="1.5" stroke-linecap="round" style="fill:none;stroke:rgb(221, 214, 254);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- bulb base lines -->
+    <line x1="2" y1="26" x2="14" y2="26" stroke="#7C3AED" stroke-width="1.5" style="fill:rgb(0, 0, 0);stroke:rgb(124, 58, 237);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <line x1="4" y1="30" x2="12" y2="30" stroke="#7C3AED" stroke-width="1.5" style="fill:rgb(0, 0, 0);stroke:rgb(124, 58, 237);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <!-- Main title text – removed hospital name, replaced with "AI Medical Center" -->
+  <text x="540" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#EDE9FE" letter-spacing="1" style="fill:rgb(237, 233, 254);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:62px;font-weight:700;text-anchor:start;dominant-baseline:auto">AI Medical Center</text>
+
+  <!-- Decorative underline accent -->
+  <rect x="540" y="122" width="580" height="3" rx="2" fill="#7C3AED" style="fill:rgb(124, 58, 237);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="540" y="122" width="200" height="3" rx="2" fill="#C084FC" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Subtitle line 1 -->
+  <text x="540" y="175" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="600" fill="#E2E8F0" letter-spacing="0.5" style="fill:rgb(226, 232, 240);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:32px;font-weight:600;text-anchor:start;dominant-baseline:auto">Breast Cancer Detection Application</text>
+  <!-- Subtitle line 2 -->
+  <text x="540" y="218" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="600" fill="#E2E8F0" letter-spacing="0.5" style="fill:rgb(226, 232, 240);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:32px;font-weight:600;text-anchor:start;dominant-baseline:auto">Using Machine Learning Classifier</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="270" width="1400" height="3" rx="0" fill="#7C3AED" opacity="0.6" style="fill:rgb(124, 58, 237);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="0" y="270" width="400" height="3" rx="0" fill="#A855F7" style="fill:rgb(168, 85, 247);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
